@@ -1,0 +1,56 @@
+body, html {
+    background-color: #1a1a1a;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items:center;
+    justify-content:center;
+    
+  }
+  .wrapper,.neon {
+    width: 600px;
+    height: 500px;
+    /* margin: 100px auto; */
+  }
+
+
+.st1 {
+  fill: #29ABE2;
+}
+
+
+.st2 {
+  fill: none;
+  stroke: #2E00ED;
+  stroke-width: 4;
+  stroke-miterlimit: 100;
+  stroke-dasharray: 0, 54, 101;
+}
+
+.st3 {
+  fill: none;
+  stroke: #F70285;
+  stroke-width: 3;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 100;
+  stroke-dasharray: 0, 37, 129;
+} 
+
+.st4 {
+  fill: none;
+  stroke: #FF0400;
+  stroke-width: 8;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-dasharray: 0, 36, 136;
+}
+
+.st5 {
+  fill: none;
+  stroke: #FFFFFF;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-dasharray: 0, 36, 136;
+} 
